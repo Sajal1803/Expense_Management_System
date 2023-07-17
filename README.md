@@ -4,10 +4,10 @@
 
 <h2>Steps to download & run the react-app </h2>
 <p>
-1. download the zip file. <br>
-2. unzip at your preferred location on your laptop/PC. <br>
-3. merge the client folder inside the expense-management-app folder <br>
-4. create .env file  <br>
+1. Download the zip file. <br>
+2. Unzip at your preferred location on your laptop/PC. <br>
+3. Merge the client folder inside the expense-management-app folder <br>
+4. Create .env file  <br>
 5. In .env file: => In first line write PORT=8080; <br> 
    In the second line write MONGO_URL=mongodb+srv://username:password@cluster0.3tcbnkq.mongodb.net/database_name  <br>
     create a cluster in Mongodb and create databases like expense_app, expense_management_app, etc  <br>
